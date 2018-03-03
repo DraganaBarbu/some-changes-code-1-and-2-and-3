@@ -1,0 +1,67 @@
+
+}
+
+header .logo img{
+	height: 100px;
+	width: 20%;
+	float: left;
+
+}
+/* en my rulez*/
+footer p{
+min-height: 100px;
+display: inline;
+text-align: center ;
+
+}
+header div ul{
+	margin-top: 50px 50px 0 50px;
+}
+header div ul li{
+	display: inline-block;
+	float: right;
+	padding: 10px;
+	margin: 5px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color:blue;
+}
+
+.left {
+
+	background-color: lightgrey;
+	width: 300px;
+    border: 25px solid;
+    padding: 25px;
+    margin: 100px;
+
+
+ }
+.left h1{
+
+	color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    display: inline;
+    font-family: serif;
+}
+.left h2{
+	text-align: center;
+}
+.left img{
+	border-color: black;
+	box-shadow: 5px 5px grey;
+}
+.left p{
+	text-align: center;
+}
+.CV{
+
+background-color: lightgrey;
+	width: 300px;
+    border: 25px solid;
+    padding: 25px;
+    margin: 25px;
+    float: right;
+    top: 30px;
+
+}

@@ -1,0 +1,73 @@
+// function submit(){
+
+//	 var first_name = document.getElementById('first_name').value; 
+
+//	 var last_name = document.getElementById('last_name').value;
+
+//	 var email = document.getElementById('email').value;
+//
+//	 var phone_number = document.getElementById('phone_number').value;
+
+//	 var message = document.getElementById('message').value;
+
+//	 var result;
+
+//	 if (first_name === '') {
+
+//		   error = "Please Fill Your First Name ";
+//		  document.getElementById("first_name_error").innerHTML = '<p style = "color:red">'+error+'</p>';
+//		  document.getElementById("last_name_error").innerHTML = '';
+//		  document.getElementById("email_error").innerHTML = '';
+//		  document.getElementById("phone_number").innerHTML = '';
+//		  document.getElementById("message_error").innerHTML = '';
+
+//	 } else if (last_name === '' ) {
+
+//		   error = "Please Fill Your Last Name ";
+//		  document.getElementById("last_name_error").innerHTML = '<p style = "color:red">' + error + '</p>';
+//		  document.getElementById("first_name_error").innerHTML = '';
+//		  document.getElementById("email_error").innerHTML = '';
+//		  document.getElementById("phone_number").innerHTML = '';
+//		  document.getElementById("message_error").innerHTML = '';
+////
+//	 } else if(email === '') {
+//
+//		   error = "Email is required";
+//		  document.getElementById("email_error").innerHTML = '<p style = "color:red">' + error + '</p>';
+//		  document.getElementById("first_name_error").innerHTML = '';
+//		  document.getElementById("last_name_error").innerHTML = '';
+//		  document.getElementById("phone_number").innerHTML = '';
+//		  document.getElementById("message_error").innerHTML = '';
+
+//	 } else if (phone_number === '') {
+
+//		  error = "Phone Number is required";
+//		 document.getElementById("phone_number_error").innerHTML = '<p style = "color:red">' + error + '</p>';
+//		 document.getElementById("first_name_error").innerHTML = '';
+//		 document.getElementById("last_name_error").innerHTML = '';
+//		 document.getElementById("email_error").innerHTML = '';
+//		 document.getElementById("message_error").innerHTML = '';
+
+//	 } else if (message === '') {
+
+//		   error = "Please give us feedback";
+//		  document.getElementById("message_error").innerHTML = '<p style = "color:red">' + error + '</p>';
+//		  document.getElementById("first_name_error").innerHTML = '';
+//		  document.getElementById("last_name_error").innerHTML = '';
+//		  document.getElementById("phone_number_error").innerHTML = '';
+//		  document.getElementById("email_error").innerHTML = '';
+
+//	 } else {
+
+	//	 var result = 'Dear Mr/Mrs ' + first_name + ' ' + last_name + ' your application has been submitted,' + "<br>" + "We will contact you soon by email" ;
+
+//		  document.getElementById("result").innerHTML = result;
+//		  document.getElementById("first_name_error").innerHTML = '';
+//		  document.getElementById("last_name_error").innerHTML = '';
+//		  document.getElementById("phone_number_error").innerHTML = '';
+//		  document.getElementById("email_error").innerHTML = '';
+//		  document.getElementById("message_error").innerHTML = '';
+
+//	}
+
+//}
